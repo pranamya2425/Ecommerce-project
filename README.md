@@ -11,4 +11,4 @@ ShopEase is a feature-rich, responsive, and scalable eCommerce platform designed
 Frontend: React, Tailwind CSS
 Backend: Node.js, Express
 Database: MongoDB
-Authentication: JWT & OAuth .
+Authentication: JWT & OAuth.
