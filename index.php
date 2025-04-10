@@ -6,7 +6,6 @@ include 'includes/db.php'; // Include the database connection
 $stmt = $conn->query("SELECT * FROM products");
 $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
