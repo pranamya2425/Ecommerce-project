@@ -12,4 +12,3 @@ Frontend: React, Tailwind CSS
 Backend: Node.js, Express
 Database: MongoDB
 Authentication: JWT & OAuth.
-
